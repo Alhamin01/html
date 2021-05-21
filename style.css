@@ -56,9 +56,6 @@ img {
     
 }
 
-.pic:hover{
-    box-shadow: 0 3px 12px grey;
-}
 .pic p{
     color: whitesmoke;
     font-size: 14px;
