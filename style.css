@@ -37,3 +37,9 @@ li a{
     padding: 13px 16px;
     text-align: center;
 }
+img {
+    margin-top: 6px;
+    border: 2px dashed black;
+    border-radius: 10px;
+    
+}
