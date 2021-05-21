@@ -36,6 +36,7 @@ li a{
     color: white;
     padding: 13px 16px;
     text-align: center;
+    text-decoration: none;
 }
 img {
     margin-top: 6px;
@@ -69,4 +70,5 @@ img {
 li a:hover {
     background-color: aliceblue;
     color: black;
+    box-shadow: 0 0 12px brown;
 }
