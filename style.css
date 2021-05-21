@@ -62,6 +62,8 @@ img {
     margin: 5px;
     background-color: black;
     border-top: 2px solid grey;
+    text-transform: capitalize;
+    
 }
 
 li a:hover {
