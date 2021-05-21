@@ -31,7 +31,7 @@ li{
 }
 
 li a{
-    
+    font-size: 18px;
     display: inline-block;
     color: white;
     padding: 13px 16px;
@@ -62,4 +62,9 @@ img {
     margin: 5px;
     background-color: black;
     border-top: 2px solid grey;
+}
+
+li a:hover {
+    background-color: aliceblue;
+    color: black;
 }
