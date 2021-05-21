@@ -55,6 +55,10 @@ img {
     float: left;
     
 }
+.pic:hover{
+    
+    box-shadow: 0 3px 14px grey;
+}
 
 .pic p{
     color: whitesmoke;
