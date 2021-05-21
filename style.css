@@ -43,3 +43,21 @@ img {
     border-radius: 10px;
     
 }
+.pic {
+    border: 1px solid black;
+    margin-top: 10px;
+    width: 260px;
+    text-align: center;
+    background-color: whitesmoke;
+    float: left;
+    
+}
+
+.pic p{
+    color: whitesmoke;
+    font-size: 14px;
+    font-family: cursive;
+    margin: 4px;
+    background-color: black;
+    border-top: 2px solid grey;
+}
