@@ -19,26 +19,21 @@
 }
 
 ul{
-    list-style-type:  none;
-    text-overflow: none;
-    padding: 12px 
-    
-    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 
 li{
-    text-align: center;
     float: left;
-    padding: 13px 15px;
-    background-color: grey;
-    margin: 5px;
-    border: none;
-    box-shadow: 0 0 12px black;
-
-
 }
-li a {
-    text-decoration: none;
-    color: black;
-        
+
+li a{
+    
+    display: inline-block;
+    color: white;
+    padding: 13px 16px;
+    text-align: center;
 }
