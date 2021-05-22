@@ -44,15 +44,15 @@ li a{
 }
 img {
     margin-top: 6px;
-    border: 2px dashed black;
-    border-radius: 10px;
-    margin-bottom: 0;
-    margin: 
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 0; 
     
 }
 .pic {
     border: 1px solid black;
     margin: 5px;
+    border-radius: 15px;
     width: 260px;
     text-align: center;
     background-color: whitesmoke;
