@@ -10,4 +10,6 @@ Can not wait to have others contributing to my repo.
 
 Feel free sharing suggestion to help refine the purity of the code I write.
 
+ However, I am also opened for collaborations and joint projects.
+
 thanks 
