@@ -11,5 +11,15 @@ Can not wait to have others contributing to my repo.
 Feel free sharing suggestion to help refine the purity of the code I write.
 
  However, I am also opened for collaborations and joint projects.
+ 
+ (What this repo contains:)
+ 
+ basic html and css code 
+ 
+ funny projects
+ 
+ hands on new technologies 
+ 
+ both web technologies as well as practical engineering technologies
 
 thanks 
